@@ -34,8 +34,4 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Live link
 
-
-## App Screenshot
-![screenshot]()
-
 ## License
